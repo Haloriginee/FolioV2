@@ -15,27 +15,27 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
+      url: 'websites-preview/stackoverflow.png',
+      websiteURL: 'https://stackoverflow.com/',
     },
     {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
+      url: 'websites-preview/three-js.png',
+      websiteURL: 'https://threejs.org/',
     },
     {
-      url: 'websites-preview/cs2.png',
+      url: 'websites-preview/stackoverflow.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
+        'https://stackoverflow.com/', //optional open url in new tab
     },
     {
-      url: 'websites-preview/knack-page.png',
+      url: 'websites-preview/stackoverflow.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
+        'https://stackoverflow.com/',
     },
     {
-      url: 'websites-preview/magic.png',
+      url: 'websites-preview/stackoverflow.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/magic-app.html',
+        'https://stackoverflow.com/',
     },
   ],
 };

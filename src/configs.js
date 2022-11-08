@@ -39,7 +39,7 @@ const configs = {
       position: [-PAGE_DEPH_MARGIN, 0, 0],
       title: 'Experience',
       imageList: EXPERIENCE,
-      footer: 'You can click the icons to find out more.',
+      footer: 'headache max lvl.',
     },
     {
       scale: 15,
