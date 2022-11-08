@@ -90,23 +90,7 @@ const NavBar = () => {
     >
       <NavModal isOpen={isOpen} onRequestClose={() => setIsOpen(false)} />
       <MainContainer windowWidth={windowWidth}>
-        <PlayButton
-          onClick={() => {
-            if (audio.current.paused) {
-              audio.current.play();
-            } else {
-              audio.current.pause();
-            }
 
-            setPlayingAudio(!audio.current.paused);
-          }}
-        >
-          {!playAudio ? (
-            <AiFillCaretRight color={theme.colors.primary} size={30} />
-          ) : (
-            <AiFillPauseCircle color={theme.colors.primary} size={30} />
-          )}
-        </PlayButton>
         <div>{navTitle}</div>
         <MenuButton onClick={() => setIsOpen(true)}>
           <AiOutlineMenu color={theme.colors.primary} size={30} />
