@@ -97,11 +97,11 @@ const configs = {
           {
             url: 'websites-preview/yoyo2.png',
             websiteURL:
-              'https://phokingdex.herokuapp.com/',
+              'https://nhaquemusics-v2.netlify.app/',
           },
           {
             url: 'websites-preview/yoyo3.png',
-            websiteURL: 'https://nhaquemusics.herokuapp.com/',
+            websiteURL: 'https://checkoutourlifes-cool.netlify.app/',
           },
           {
             url: 'websites-preview/yoyo4.png',
@@ -110,10 +110,6 @@ const configs = {
           {
             url: 'websites-preview/yoyo5.png',
             websiteURL: 'https://haloriginee.github.io/Vador-Theme/',
-          },
-          {
-            url: 'websites-preview/yoyo6.png',
-            websiteURL: 'https://checkoutourlifes-cool.netlify.app/',
           },
         ],
       },
