@@ -88,7 +88,7 @@ const configs = {
         items: [
           {
             url: 'websites-preview/yoyo.png',
-            websiteURL: 'https://nha-que-movies.herokuapp.com/',
+            websiteURL: 'https://nhaquemovie.netlify.app/',
           },
           {
             url: 'websites-preview/yoyo1.png',
