@@ -104,10 +104,6 @@ const configs = {
             websiteURL: 'https://checkoutourlifes-cool.netlify.app/',
           },
           {
-            url: 'websites-preview/yoyo4.png',
-            websiteURL: 'https://geojourney.herokuapp.com/',
-          },
-          {
             url: 'websites-preview/yoyo5.png',
             websiteURL: 'https://haloriginee.github.io/Vador-Theme/',
           },
