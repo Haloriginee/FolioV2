@@ -92,7 +92,7 @@ const configs = {
           },
           {
             url: 'websites-preview/yoyo1.png',
-            websiteURL: 'https://haloriginee.github.io/DazooMusics/',
+            websiteURL: 'https://businessexample1.netlify.app/',
           },
           {
             url: 'websites-preview/yoyo2.png',
