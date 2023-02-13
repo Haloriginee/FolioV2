@@ -104,7 +104,7 @@ const configs = {
           },
           {
             url: 'websites-preview/yoyo5.png',
-            websiteURL: 'https://haloriginee.github.io/Vador-Theme/',
+            websiteURL: 'https://imgene.netlify.app/',
           },
           {
             url: 'websites-preview/yoyo6.png',
